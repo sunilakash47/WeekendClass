@@ -1,0 +1,8 @@
+TC1 - Verify user is able to signin and signout of the application
+1. Login to the application
+2. Click profile icon and click on sign out
+TC2 - Verify user is able to edit the details
+1. Login to the application
+2. Click profile icon and click on edit profile
+3. Click on save button
+4. Click on profile icon and verify for the changes
